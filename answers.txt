@@ -1,0 +1,6 @@
+How many commits are there in total? 11
+When was the last commit made? 20 Mar 2018
+Who is the author of those commits? Stopa
+What changes were made in the commit with the SHA-1 hash 790a2aa?
+
+There is no hash 790a2aa
